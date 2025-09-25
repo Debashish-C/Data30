@@ -37,12 +37,5 @@ Write a program that takes user input for **name** and **age**, and prints:
 
 Hello {name}, you are {age} years old!
 
-✅ Example:  
 
-**Input:**  
-Enter your name: Debashish
-Enter your age: 22
-
-**Output:**  
-Hello Debashish, you are 22 years old!
 
