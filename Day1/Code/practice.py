@@ -13,3 +13,7 @@ name = "Debashish"
 # type casting
 
 age = int("22")
+
+
+name = input()
+print(name)
